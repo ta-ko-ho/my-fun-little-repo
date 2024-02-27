@@ -11,7 +11,7 @@ npm run dev
 You can also run the Astro template easily using Wasmer (check out the [install guide](https://docs.wasmer.io/install)):
 
 ```bash
-wasmer run wasmer-examples/my-fun-little-app --net -- --port 3000
+wasmer run ta-ko-ho/None --net -- --port 3000
 ```
 
 > [!TIP]
@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The easiest way to deploy your Astro App is to use the [Wasmer Edge](https://wasmer.io/products/edge).
 
-Live example: https://my-fun-little-app.wasmer.app/
+Live example: https://my-fun-little-repo.wasmer.app/
 
 First, you'll need to run `npm run build`, and then, to deploy to Wasmer Edge:
 
