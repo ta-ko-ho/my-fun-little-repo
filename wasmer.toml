@@ -1,5 +1,5 @@
 [package]
-name = "ta-ko-ho/None"
+name = "ta-ko-ho/my-fun-little-repo"
 version = "0.2.4"
 description = "Astro.dev Wasmer starter package"
 readme = "README.md"
